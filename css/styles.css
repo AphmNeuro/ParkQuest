@@ -81,8 +81,9 @@ body {
     margin: 20px 20px;
 }
 
+
 .plaquette-img {
-    width: 80%;
+    width: 50%;
     max-width: 900px;
     height: auto;
     border-radius: 10px;
